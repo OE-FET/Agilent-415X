@@ -25,10 +25,9 @@
 				<Item Name="Serial write and read v0.5.vi" Type="VI" URL="../Custom/Serial port/Serial write and read v0.5.vi"/>
 			</Item>
 			<Item Name="Text control" Type="Folder">
+				<Item Name="Text control 1 v0.1.vi" Type="VI" URL="../Custom/Text control/Text control 1 v0.1.vi"/>
 				<Item Name="Text control 1 v0.2.vi" Type="VI" URL="../Custom/Text control/Text control 1 v0.2.vi"/>
 				<Item Name="Text control 2 v6.5.vi" Type="VI" URL="../Custom/Text control/Text control 2 v6.5.vi"/>
-				<Item Name="Text control v0.1.vi" Type="VI" URL="../Custom/Text control/Text control v0.1.vi"/>
-				<Item Name="Text control v0.2.vi" Type="VI" URL="../Custom/Text control/Text control v0.2.vi"/>
 				<Item Name="Text control_KM.vi" Type="VI" URL="../Custom/Text control/Text control_KM.vi"/>
 			</Item>
 			<Item Name="FPP-sample-download.vi" Type="VI" URL="../Custom/FPP-sample-download.vi"/>
