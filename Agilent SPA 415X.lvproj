@@ -32,6 +32,7 @@
 				<Item Name="Text control_KM.vi" Type="VI" URL="../Custom/Text control/Text control_KM.vi"/>
 			</Item>
 			<Item Name="FPP-sample-download.vi" Type="VI" URL="../Custom/FPP-sample-download.vi"/>
+			<Item Name="initialize.vi" Type="VI" URL="../Custom/initialize.vi"/>
 			<Item Name="PulsedstressV_inputs.vi" Type="VI" URL="../Custom/PulsedstressV_inputs.vi"/>
 		</Item>
 		<Item Name="Driver" Type="Folder">
@@ -142,7 +143,6 @@
 				<Item Name="Write Characters To File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Characters To File.vi"/>
 				<Item Name="Write File+ (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write File+ (string).vi"/>
 			</Item>
-			<Item Name="initialize.vi" Type="VI" URL="../Driver/initialize.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
