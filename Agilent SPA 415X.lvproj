@@ -19,7 +19,7 @@
 			</Item>
 			<Item Name="Microfluidics" Type="Folder">
 				<Item Name="SPM Pump v0.6.vi" Type="VI" URL="../Custom/Microfluidics/SPM Pump v0.6.vi"/>
-				<Item Name="Text control 2 v6.5_pump-specific.vi" Type="VI" URL="../Custom/Microfluidics/Text control 2 v6.5_pump-specific.vi"/>
+				<Item Name="Text control 2 v6.7_pump-specific.vi" Type="VI" URL="../Custom/Microfluidics/Text control 2 v6.7_pump-specific.vi"/>
 			</Item>
 			<Item Name="Serial port" Type="Folder">
 				<Item Name="Serial write and read v0.5.vi" Type="VI" URL="../Custom/Serial port/Serial write and read v0.5.vi"/>
@@ -27,7 +27,7 @@
 			<Item Name="Text control" Type="Folder">
 				<Item Name="Text control 1 v0.1.vi" Type="VI" URL="../Custom/Text control/Text control 1 v0.1.vi"/>
 				<Item Name="Text control 1 v0.2.vi" Type="VI" URL="../Custom/Text control/Text control 1 v0.2.vi"/>
-				<Item Name="Text control 2 v6.5.vi" Type="VI" URL="../Custom/Text control/Text control 2 v6.5.vi"/>
+				<Item Name="Text control 2 v6.7.vi" Type="VI" URL="../Custom/Text control/Text control 2 v6.7.vi"/>
 				<Item Name="Text control_KM.vi" Type="VI" URL="../Custom/Text control/Text control_KM.vi"/>
 			</Item>
 			<Item Name="FPP-sample-download.vi" Type="VI" URL="../Custom/FPP-sample-download.vi"/>
