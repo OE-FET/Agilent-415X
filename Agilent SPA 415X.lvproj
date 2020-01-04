@@ -35,6 +35,9 @@
 			<Item Name="PulsedstressV_inputs.vi" Type="VI" URL="../Custom/PulsedstressV_inputs.vi"/>
 		</Item>
 		<Item Name="Driver" Type="Folder">
+			<Item Name="Modified" Type="Folder">
+				<Item Name="4155C Output Config SMUs v2.0.vi" Type="VI" URL="../Driver/Modified/4155C Output Config SMUs v2.0.vi"/>
+			</Item>
 			<Item Name="4155C 1D-2D array.vi" Type="VI" URL="../Driver/4155C 1D-2D array.vi"/>
 			<Item Name="4155C Apply Stress.vi" Type="VI" URL="../Driver/4155C Apply Stress.vi"/>
 			<Item Name="4155C Check File Exists.vi" Type="VI" URL="../Driver/4155C Check File Exists.vi"/>
