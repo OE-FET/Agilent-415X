@@ -12,16 +12,10 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Custom" Type="Folder">
 			<Item Name="Front-ends" Type="Folder">
-				<Item Name="Variable SMUs" Type="Folder">
-					<Item Name="Frontend FPP v2.0.vi" Type="VI" URL="../Custom/Front-ends/Variable SMUs/Frontend FPP v2.0.vi"/>
-					<Item Name="Frontend FPP_Kee_modified v2.0.vi" Type="VI" URL="../Custom/Front-ends/Variable SMUs/Frontend FPP_Kee_modified v2.0.vi"/>
-					<Item Name="Frontend FPP_vdp_Ian_modified v2.0.vi" Type="VI" URL="../Custom/Front-ends/Variable SMUs/Frontend FPP_vdp_Ian_modified v2.0.vi"/>
-					<Item Name="Frontend v2.0.vi" Type="VI" URL="../Custom/Front-ends/Variable SMUs/Frontend v2.0.vi"/>
-				</Item>
-				<Item Name="Frontend FPP.vi" Type="VI" URL="../Custom/Front-ends/Frontend FPP.vi"/>
-				<Item Name="Frontend FPP_Kee_modified.vi" Type="VI" URL="../Custom/Front-ends/Frontend FPP_Kee_modified.vi"/>
-				<Item Name="Frontend FPP_vdp_Ian_modified.vi" Type="VI" URL="../Custom/Front-ends/Frontend FPP_vdp_Ian_modified.vi"/>
-				<Item Name="Frontend.vi" Type="VI" URL="../Custom/Front-ends/Frontend.vi"/>
+				<Item Name="Frontend FPP v2.0.vi" Type="VI" URL="../Custom/Front-ends/Frontend FPP v2.0.vi"/>
+				<Item Name="Frontend FPP_Kee_modified v2.0.vi" Type="VI" URL="../Custom/Front-ends/Frontend FPP_Kee_modified v2.0.vi"/>
+				<Item Name="Frontend FPP_vdp_Ian_modified v2.0.vi" Type="VI" URL="../Custom/Front-ends/Frontend FPP_vdp_Ian_modified v2.0.vi"/>
+				<Item Name="Frontend v2.0.vi" Type="VI" URL="../Custom/Front-ends/Frontend v2.0.vi"/>
 			</Item>
 			<Item Name="Microfluidics" Type="Folder">
 				<Item Name="SPM Pump v0.6.vi" Type="VI" URL="../Custom/Microfluidics/SPM Pump v0.6.vi"/>
@@ -125,6 +119,18 @@
 			<Item Name="4155C VAR2 StartStopStep to num steps.vi" Type="VI" URL="../Driver/4155C VAR2 StartStopStep to num steps.vi"/>
 			<Item Name="4155C Write array to file.vi" Type="VI" URL="../Driver/4155C Write array to file.vi"/>
 			<Item Name="Select Event Type.ctl" Type="VI" URL="../Driver/Select Event Type.ctl"/>
+		</Item>
+		<Item Name="Old versions" Type="Folder">
+			<Item Name="Front-ends" Type="Folder">
+				<Item Name="Frontend FPP.vi" Type="VI" URL="../Old versions/Front-ends/Frontend FPP.vi"/>
+				<Item Name="Frontend FPP_Kee_modified.vi" Type="VI" URL="../Old versions/Front-ends/Frontend FPP_Kee_modified.vi"/>
+				<Item Name="Frontend FPP_vdp_Ian_modified.vi" Type="VI" URL="../Old versions/Front-ends/Frontend FPP_vdp_Ian_modified.vi"/>
+				<Item Name="Frontend.vi" Type="VI" URL="../Old versions/Front-ends/Frontend.vi"/>
+			</Item>
+			<Item Name="Text control" Type="Folder">
+				<Item Name="Text control v0.2.vi" Type="VI" URL="../Old versions/Text control/Text control v0.2.vi"/>
+				<Item Name="Text control_KM.vi" Type="VI" URL="../Old versions/Text control/Text control_KM.vi"/>
+			</Item>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
