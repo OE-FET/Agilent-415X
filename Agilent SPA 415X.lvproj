@@ -34,6 +34,9 @@
 			<Item Name="initialize.vi" Type="VI" URL="../Custom/initialize.vi"/>
 			<Item Name="PulsedstressV_inputs.vi" Type="VI" URL="../Custom/PulsedstressV_inputs.vi"/>
 		</Item>
+		<Item Name="Documentation" Type="Folder">
+			<Item Name="Installation of Agilent 415X LabVIEW software.docx" Type="Document" URL="../Documentation/Installation of Agilent 415X LabVIEW software.docx"/>
+		</Item>
 		<Item Name="Driver" Type="Folder">
 			<Item Name="Modified driver files" Type="Folder">
 				<Item Name="4155C Config I Stress v2.0.vi" Type="VI" URL="../Driver/Modified driver files/4155C Config I Stress v2.0.vi"/>
@@ -126,6 +129,9 @@
 				<Item Name="Frontend FPP_Kee_modified.vi" Type="VI" URL="../Old versions/Front-ends/Frontend FPP_Kee_modified.vi"/>
 				<Item Name="Frontend FPP_vdp_Ian_modified.vi" Type="VI" URL="../Old versions/Front-ends/Frontend FPP_vdp_Ian_modified.vi"/>
 				<Item Name="Frontend.vi" Type="VI" URL="../Old versions/Front-ends/Frontend.vi"/>
+			</Item>
+			<Item Name="Misc" Type="Folder">
+				<Item Name="Close Port.vi" Type="VI" URL="../Old versions/Misc/Close Port.vi"/>
 			</Item>
 			<Item Name="Text control" Type="Folder">
 				<Item Name="Text control v0.2.vi" Type="VI" URL="../Old versions/Text control/Text control v0.2.vi"/>
