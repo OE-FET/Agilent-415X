@@ -19,14 +19,14 @@
 			</Item>
 			<Item Name="Microfluidics" Type="Folder">
 				<Item Name="SPM Pump v0.6.vi" Type="VI" URL="../Custom/Microfluidics/SPM Pump v0.6.vi"/>
-				<Item Name="Text control 2 v6.9_pump-specific.vi" Type="VI" URL="../Custom/Microfluidics/Text control 2 v6.9_pump-specific.vi"/>
+				<Item Name="Text control 2 v7.0_pump-specific.vi" Type="VI" URL="../Custom/Microfluidics/Text control 2 v7.0_pump-specific.vi"/>
 			</Item>
 			<Item Name="Serial port" Type="Folder">
 				<Item Name="Serial write and read v0.5.vi" Type="VI" URL="../Custom/Serial port/Serial write and read v0.5.vi"/>
 			</Item>
 			<Item Name="Text control" Type="Folder">
 				<Item Name="Text control 1 v0.3.vi" Type="VI" URL="../Custom/Text control/Text control 1 v0.3.vi"/>
-				<Item Name="Text control 2 v6.9.vi" Type="VI" URL="../Custom/Text control/Text control 2 v6.9.vi"/>
+				<Item Name="Text control 2 v7.0.vi" Type="VI" URL="../Custom/Text control/Text control 2 v7.0.vi"/>
 			</Item>
 			<Item Name="Config Sampling Measurements - SMU name converter.vi" Type="VI" URL="../Custom/Config Sampling Measurements - SMU name converter.vi"/>
 			<Item Name="Config Sampling Measurements - VSU name converter.vi" Type="VI" URL="../Custom/Config Sampling Measurements - VSU name converter.vi"/>
