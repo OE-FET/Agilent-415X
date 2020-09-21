@@ -169,6 +169,7 @@
 			</Item>
 			<Item Name="Text control" Type="Folder">
 				<Item Name="Text control 1 v0.2.vi" Type="VI" URL="../Old versions/Text control/Text control 1 v0.2.vi"/>
+				<Item Name="Text control 2 v6.7.vi" Type="VI" URL="../Old versions/Text control/Text control 2 v6.7.vi"/>
 				<Item Name="Text control_KM.vi" Type="VI" URL="../Old versions/Text control/Text control_KM.vi"/>
 			</Item>
 		</Item>
