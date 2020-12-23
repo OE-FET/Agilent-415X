@@ -146,7 +146,6 @@
 				<Item Name="4155C VAR1 Correct Step.vi" Type="VI" URL="../Driver/Old driver/4155C VAR1 Correct Step.vi"/>
 				<Item Name="4155C VAR2 StartStopStep to num steps.vi" Type="VI" URL="../Driver/Old driver/4155C VAR2 StartStopStep to num steps.vi"/>
 				<Item Name="4155C Write array to file.vi" Type="VI" URL="../Driver/Old driver/4155C Write array to file.vi"/>
-				<Item Name="Select Event Type.ctl" Type="VI" URL="../Driver/Old driver/Select Event Type.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Old versions" Type="Folder">
@@ -276,6 +275,7 @@
 				<Item Name="Write To Spreadsheet File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
+			<Item Name="Select Event Type.ctl" Type="VI" URL="../Driver/Old driver/Select Event Type.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
