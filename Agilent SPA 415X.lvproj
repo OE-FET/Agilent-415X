@@ -21,7 +21,7 @@
 				<Item Name="Frontend v3.0.vi" Type="VI" URL="../Custom/Front-ends/Frontend v3.0.vi"/>
 			</Item>
 			<Item Name="Microfluidics" Type="Folder">
-				<Item Name="SPM Pump v0.6.vi" Type="VI" URL="../Custom/Microfluidics/SPM Pump v0.6.vi"/>
+				<Item Name="SPM Pump v0.7.vi" Type="VI" URL="../Custom/Microfluidics/SPM Pump v0.7.vi"/>
 				<Item Name="Text control 2 v7.2_pump-specific.vi" Type="VI" URL="../Custom/Microfluidics/Text control 2 v7.2_pump-specific.vi"/>
 			</Item>
 			<Item Name="Serial port" Type="Folder">
