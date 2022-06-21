@@ -22,14 +22,14 @@
 			</Item>
 			<Item Name="Microfluidics" Type="Folder">
 				<Item Name="SPM Pump v0.7.vi" Type="VI" URL="../Custom/Microfluidics/SPM Pump v0.7.vi"/>
-				<Item Name="Text control 2 v7.2_pump-specific.vi" Type="VI" URL="../Custom/Microfluidics/Text control 2 v7.2_pump-specific.vi"/>
+				<Item Name="Text control 2 v7.3_pump-specific.vi" Type="VI" URL="../Custom/Microfluidics/Text control 2 v7.3_pump-specific.vi"/>
 			</Item>
 			<Item Name="Serial port" Type="Folder">
 				<Item Name="Serial write and read v0.5.vi" Type="VI" URL="../Custom/Serial port/Serial write and read v0.5.vi"/>
 			</Item>
 			<Item Name="Text control" Type="Folder">
 				<Item Name="Text control 1 v0.4.vi" Type="VI" URL="../Custom/Text control/Text control 1 v0.4.vi"/>
-				<Item Name="Text control 2 v7.2.vi" Type="VI" URL="../Custom/Text control/Text control 2 v7.2.vi"/>
+				<Item Name="Text control 2 v7.3.vi" Type="VI" URL="../Custom/Text control/Text control 2 v7.3.vi"/>
 			</Item>
 			<Item Name="Thermoelectrics" Type="Folder">
 				<Item Name="4155C Thermopower Heater ON Config SMUs.vi" Type="VI" URL="../Custom/Thermoelectrics/4155C Thermopower Heater ON Config SMUs.vi"/>
