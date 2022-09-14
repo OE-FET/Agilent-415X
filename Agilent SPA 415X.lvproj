@@ -45,6 +45,7 @@
 			<Item Name="FPP-sample-download.vi" Type="VI" URL="../Custom/FPP-sample-download.vi"/>
 			<Item Name="initialize.vi" Type="VI" URL="../Custom/initialize.vi"/>
 			<Item Name="PulsedstressV_inputs.vi" Type="VI" URL="../Custom/PulsedstressV_inputs.vi"/>
+			<Item Name="Repeat.vi" Type="VI" URL="../Custom/Repeat.vi"/>
 			<Item Name="SMU-VSU name converter.vi" Type="VI" URL="../Custom/SMU-VSU name converter.vi"/>
 		</Item>
 		<Item Name="Documentation" Type="Folder">
