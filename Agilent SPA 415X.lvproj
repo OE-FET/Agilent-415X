@@ -20,16 +20,22 @@
 				<Item Name="Frontend FPP_vdp_Ian_modified v3.0.vi" Type="VI" URL="../Custom/Front-ends/Frontend FPP_vdp_Ian_modified v3.0.vi"/>
 				<Item Name="Frontend v3.0.vi" Type="VI" URL="../Custom/Front-ends/Frontend v3.0.vi"/>
 			</Item>
+			<Item Name="Loop command" Type="Folder">
+				<Item Name="Find innermost loop.vi" Type="VI" URL="../Custom/Loop command/Find innermost loop.vi"/>
+				<Item Name="Loop unroll - nested.vi" Type="VI" URL="../Custom/Loop command/Loop unroll - nested.vi"/>
+				<Item Name="Loop unroll.vi" Type="VI" URL="../Custom/Loop command/Loop unroll.vi"/>
+				<Item Name="Repeat.vi" Type="VI" URL="../Custom/Loop command/Repeat.vi"/>
+			</Item>
 			<Item Name="Microfluidics" Type="Folder">
 				<Item Name="SPM Pump v0.7.vi" Type="VI" URL="../Custom/Microfluidics/SPM Pump v0.7.vi"/>
-				<Item Name="Text control 2 v7.3_pump-specific.vi" Type="VI" URL="../Custom/Microfluidics/Text control 2 v7.3_pump-specific.vi"/>
+				<Item Name="Text control 2 v7.4_pump-specific.vi" Type="VI" URL="../Custom/Microfluidics/Text control 2 v7.4_pump-specific.vi"/>
 			</Item>
 			<Item Name="Serial port" Type="Folder">
 				<Item Name="Serial write and read v0.5.vi" Type="VI" URL="../Custom/Serial port/Serial write and read v0.5.vi"/>
 			</Item>
 			<Item Name="Text control" Type="Folder">
 				<Item Name="Text control 1 v0.4.vi" Type="VI" URL="../Custom/Text control/Text control 1 v0.4.vi"/>
-				<Item Name="Text control 2 v7.3.vi" Type="VI" URL="../Custom/Text control/Text control 2 v7.3.vi"/>
+				<Item Name="Text control 2 v7.4.vi" Type="VI" URL="../Custom/Text control/Text control 2 v7.4.vi"/>
 			</Item>
 			<Item Name="Thermoelectrics" Type="Folder">
 				<Item Name="4155C Thermopower Heater ON Config SMUs.vi" Type="VI" URL="../Custom/Thermoelectrics/4155C Thermopower Heater ON Config SMUs.vi"/>
@@ -45,7 +51,6 @@
 			<Item Name="FPP-sample-download.vi" Type="VI" URL="../Custom/FPP-sample-download.vi"/>
 			<Item Name="initialize.vi" Type="VI" URL="../Custom/initialize.vi"/>
 			<Item Name="PulsedstressV_inputs.vi" Type="VI" URL="../Custom/PulsedstressV_inputs.vi"/>
-			<Item Name="Repeat.vi" Type="VI" URL="../Custom/Repeat.vi"/>
 			<Item Name="SMU-VSU name converter.vi" Type="VI" URL="../Custom/SMU-VSU name converter.vi"/>
 		</Item>
 		<Item Name="Documentation" Type="Folder">
@@ -187,12 +192,15 @@
 				<Item Name="Frontend v2.0.vi" Type="VI" URL="../Old versions/Front-ends/Frontend v2.0.vi"/>
 				<Item Name="Frontend.vi" Type="VI" URL="../Old versions/Front-ends/Frontend.vi"/>
 			</Item>
+			<Item Name="Microfluidics" Type="Folder">
+				<Item Name="Text control 2 v7.3_pump-specific.vi" Type="VI" URL="../Old versions/Microfluidics/Text control 2 v7.3_pump-specific.vi"/>
+			</Item>
 			<Item Name="Misc" Type="Folder">
 				<Item Name="Close Port.vi" Type="VI" URL="../Old versions/Misc/Close Port.vi"/>
 			</Item>
 			<Item Name="Text control" Type="Folder">
 				<Item Name="Text control 1 v0.2.vi" Type="VI" URL="../Old versions/Text control/Text control 1 v0.2.vi"/>
-				<Item Name="Text control 2 v6.7.vi" Type="VI" URL="../Old versions/Text control/Text control 2 v6.7.vi"/>
+				<Item Name="Text control 2 v7.3.vi" Type="VI" URL="../Old versions/Text control/Text control 2 v7.3.vi"/>
 				<Item Name="Text control_KM.vi" Type="VI" URL="../Old versions/Text control/Text control_KM.vi"/>
 			</Item>
 			<Item Name="Thermoelectrics" Type="Folder">
