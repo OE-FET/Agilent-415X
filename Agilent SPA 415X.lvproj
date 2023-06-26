@@ -20,12 +20,6 @@
 				<Item Name="Frontend FPP_vdp_Ian_modified v3.0.vi" Type="VI" URL="../Custom/Front-ends/Frontend FPP_vdp_Ian_modified v3.0.vi"/>
 				<Item Name="Frontend v3.0.vi" Type="VI" URL="../Custom/Front-ends/Frontend v3.0.vi"/>
 			</Item>
-			<Item Name="Loop command" Type="Folder">
-				<Item Name="Find innermost loop.vi" Type="VI" URL="../Custom/Loop command/Find innermost loop.vi"/>
-				<Item Name="Loop unroll - nested.vi" Type="VI" URL="../Custom/Loop command/Loop unroll - nested.vi"/>
-				<Item Name="Loop unroll.vi" Type="VI" URL="../Custom/Loop command/Loop unroll.vi"/>
-				<Item Name="Repeat.vi" Type="VI" URL="../Custom/Loop command/Repeat.vi"/>
-			</Item>
 			<Item Name="Microfluidics" Type="Folder">
 				<Item Name="SPM Pump v0.7.vi" Type="VI" URL="../Custom/Microfluidics/SPM Pump v0.7.vi"/>
 				<Item Name="Text control 2 v7.4_pump-specific.vi" Type="VI" URL="../Custom/Microfluidics/Text control 2 v7.4_pump-specific.vi"/>
@@ -283,6 +277,7 @@
 				<Item Name="Write To Spreadsheet File (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File (string).vi"/>
 				<Item Name="Write To Spreadsheet File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File.vi"/>
 			</Item>
+			<Item Name="Loop unroll - nested.vi" Type="VI" URL="../Custom/Loop command/Loop unroll - nested.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Select Event Type.ctl" Type="VI" URL="../Driver/Old driver/Select Event Type.ctl"/>
 		</Item>
